@@ -12,8 +12,8 @@ The following steps were followed to create the dashboard.
 •	Step 3: Used Power BI Desktop/Excel to create the Dashboard.
 
 # Challenges faced during the project.
-1)	Data gathered from different locations and ensured I have all information.
-2)	Misspellings, Vocabulary errors, Misfielded value, Domain format errors, Irregularities, Missing values, Contradiction, Duplication, Illegal values, Abbreviations, Attribute dependencies, Wrong references, and Embedded values.
+•	Data gathered from different locations and ensured I have all information.
+•	Misspellings, Vocabulary errors, Misfielded value, Domain format errors, Irregularities, Missing values, Contradiction, Duplication, Illegal values, Abbreviations, Attribute dependencies, Wrong references, and Embedded values.
 
 # Insights:
  a) Overall 292 participants from 12 countries.
