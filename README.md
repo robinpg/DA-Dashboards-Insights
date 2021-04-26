@@ -22,4 +22,7 @@ c)	In India, 22% from Odisha, 15% from Maharashtra and the rest from other 23 st
 d)	In US, 39% from Texas and rest of them from other 13 cities.
 e)	59% are Working professionals and the rest are School students, Graduates and others.
 
+https://github.com/robinpg/DA-Dashboards-Insights/commit/0bc0adfc94b9582b7c4f43b976375001554d1424#diff-5eac9a1fd7ec1ae10d2efedc92b05116dad52314d6c71dc53fd84b428ea512c3
+
+
 [Internalnational Womens Day 2021_1.pdf](https://github.com/robinpg/DA-Dashboards-Insights/files/6374186/Internalnational.Womens.Day.2021_1.pdf)
