@@ -11,6 +11,9 @@ The following steps were followed to create the dashboard.
 •	Step 2: Data Cleansing (consumed 80% of work)
 •	Step 3: Used Power BI Desktop/Excel to create the Dashboard.
 
+[Internalnational Womens Day 2021_1.pdf](https://github.com/robinpg/DA-Dashboards-Insights/files/6374672/Internalnational.Womens.Day.2021_1.pdf)
+
+
 # Challenges faced during the project.
 1)	Data gathered from different locations and ensured I have all information.
 2)	Misspellings, Vocabulary errors, Misfielded value, Domain format errors, Irregularities, Missing values, Contradiction, Duplication, Illegal values, Abbreviations, Attribute dependencies, Wrong references, and Embedded values.
