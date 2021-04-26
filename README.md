@@ -25,4 +25,4 @@ e)	59% are Working professionals and the rest are School students, Graduates and
 
 [Internalnational Womens Day 2021_1.pdf]
 
-(https://github.com/robinpg/DA-Dashboards-Insights/files/6374186/Internalnational.Womens.Day.2021_1.pdf)
+![](https://github.com/robinpg/DA-Dashboards-Insights/files/6374186/Internalnational.Womens.Day.2021_1.pdf)
