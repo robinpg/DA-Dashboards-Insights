@@ -7,9 +7,10 @@ Working as Volunteer for Non-Profit Organization (JK Yog, US and India). The pri
 
 The objective of this Dashboard is to give a glimpse of involvement from different locality (age, sex, location, and occupation).
 The following steps were followed to create the dashboard.
-•	Step 1: Data gathered from different locations (US and India).
-•	Step 2: Data Cleansing (consumed 80% of work)
-•	Step 3: Used Power BI Desktop/Excel to create the Dashboard.
+
+1) Step 1: Data gathered from different locations (US and India).
+2) Step 2: Data Cleansing (consumed 80% of work)
+3) Step 3: Used Power BI Desktop/Excel to create the Dashboard.
 
 # Challenges faced during the project.
 1)	Data gathered from different locations and ensured I have all information.
