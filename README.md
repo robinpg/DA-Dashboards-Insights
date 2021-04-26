@@ -16,11 +16,11 @@ The following steps were followed to create the dashboard.
 2)	Misspellings, Vocabulary errors, Misfielded value, Domain format errors, Irregularities, Missing values, Contradiction, Duplication, Illegal values, Abbreviations, Attribute dependencies, Wrong references, and Embedded values.
 
 # Insights:
- a) Overall 292 participants from 12 countries.
- b) 82% from India, 13% from US and rest 5% from 10 countries.
- c) In India, 22% from Odisha, 15% from Maharashtra and the rest from other 23 states. 
- d) In US, 39% from Texas and rest of them from other 13 cities. 
- e) 59% are Working professionals and the rest are School students, Graduates and others. 
+ 1) Overall 292 participants from 12 countries.
+ 2) 82% from India, 13% from US and rest 5% from 10 countries.
+ 3) In India, 22% from Odisha, 15% from Maharashtra and the rest from other 23 states. 
+ 4) In US, 39% from Texas and rest of them from other 13 cities. 
+ 5) 59% are Working professionals and the rest are School students, Graduates and others. 
 
 [Internalnational Womens Day 2021_1.pdf]
 ![image](https://user-images.githubusercontent.com/82856462/116037175-11039d00-a6ab-11eb-86a6-7b4d3646e0ec.png)
