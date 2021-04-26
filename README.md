@@ -2,6 +2,7 @@
 Data Analyst - Dashboards - Insights
 
 # Overview – International Women’s Day 2021 (India)
+[Internalnational Womens Day 2021_1.pdf](https://github.com/robinpg/DA-Dashboards-Insights/files/6374186/Internalnational.Womens.Day.2021_1.pdf)
 Working as Volunteer for Non-Profit Organization (JK Yog, US and India). The primary role is to gather data, validate, analyze and create dashboards / insights. This project is about International Womens Day held in India, in 2021. Here I was given a task to create dashboard / insights according to the registration information.  
 
 The objective of this Dashboard is to give a glimpse of involvement from different locality (age, sex, location, and occupation).
@@ -20,4 +21,4 @@ b)	82% from India, 13% from US and rest 5% from 10 countries.
 c)	In India, 22% from Odisha, 15% from Maharashtra and the rest from other 23 states.
 d)	In US, 39% from Texas and rest of them from other 13 cities.
 e)	59% are Working professionals and the rest are School students, Graduates and others.
-[Internalnational Womens Day 2021_1.pdf](https://github.com/robinpg/DA-Dashboards-Insights/files/6374186/Internalnational.Womens.Day.2021_1.pdf)
+
